@@ -1,0 +1,8 @@
+{
+  "languages": {
+    "Python": {
+      "auto_indent": "syntax_aware"
+    }
+  },
+  "project_name": "ular"
+}
